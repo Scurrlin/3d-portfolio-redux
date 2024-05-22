@@ -46,7 +46,7 @@ const Approach = () => {
         <Card
           title="Deployment and Launch"
           icon={<AceternityIcon order="Phase 3" />}
-          des="Let's do it live! Using the approved design as a blueprint, I'll bring everything to life, building your website from the ground up."
+          des="We'll do it live! Using the approved design as a blueprint, I'll build your website from the ground up and push it to production seamlessly."
         >
           <CanvasRevealEffect
             animationSpeed={3}
