@@ -75,7 +75,7 @@ export const navItems = [
       des: "A clone of JSMastery's video conferencing app; built with Next.js, TypeScript, Clerk, and Getstream.io.",
       img: "/p1.jpg",
       iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
-      link: "/ui.earth.com",
+      link: "https://yoom-yoom.vercel.app/",
     },
     {
       id: 2,
@@ -83,7 +83,7 @@ export const navItems = [
       des: "A full MERN stack AI image generator powered by Cloudinary, DALL-E-3, and Hostinger.",
       img: "/p2.jpg",
       iconLists: ["/re.svg", "/tail.svg", "/cloud.svg", "/host.svg"],
-      link: "/ui.yoom.com",
+      link: "https://www.artofficial.fun/",
     },
     {
       id: 3,
@@ -91,7 +91,7 @@ export const navItems = [
       des: "An article summarizer powered by RapidAPI and OpenAI's GPT Model; built with React and styled with Tailwind CSS.",
       img: "/p3.jpg",
       iconLists: ["/re.svg", "/tail.svg"],
-      link: "/ui.apple.com",
+      link: "https://summaraize-jj5v.onrender.com/",
     },
     {
       id: 4,
@@ -99,7 +99,7 @@ export const navItems = [
       des: "A cryptocurrency tracking app ranking the top 50 coins by current market cap; built with React and CoinGecko's API.",
       img: "/p4.jpg",
       iconLists: ["/re.svg"],
-      link: "/ui.aiimg.com",
+      link: "https://crypt0watch.onrender.com/coin/bitcoin",
     },
   ];
   
