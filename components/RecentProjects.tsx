@@ -71,7 +71,7 @@ const RecentProjects = () => {
                   className="flex items-center"
                 >
                   <p className="lg:text-2xl md:text-lg text-lg text-purple">
-                    Check Live Site
+                    Visit Live Site
                   </p>
                   <FaLocationArrow className="ms-3" color="#CBACF9" />
                 </a>

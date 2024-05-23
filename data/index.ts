@@ -181,6 +181,6 @@ export const navItems = [
     {
       id: 3,
       img: "/spot.svg",
-      link: "open.spotify.com/artist/1yes1OaMmV9w58iMeggawH"
+      link: "https://open.spotify.com/artist/1yes1OaMmV9w58iMeggawH"
     },
   ];
