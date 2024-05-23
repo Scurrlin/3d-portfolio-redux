@@ -99,7 +99,7 @@ export const navItems = [
       des: "A cryptocurrency tracking app ranking the top 50 coins by current market cap; built with React and CoinGecko's API.",
       img: "/p4.jpg",
       iconLists: ["/re.svg"],
-      link: "https://crypt0watch.onrender.com/coin/bitcoin",
+      link: "https://crypt0watch.onrender.com/",
     },
   ];
   
