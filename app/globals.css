@@ -83,3 +83,13 @@
     @apply font-bold text-4xl md:text-5xl text-center;
   }
 }
+
+button.relative.inline-flex {
+  border-width: 4px;
+  border-color: #7e22ce; /* Purple color */
+}
+
+button.relative.inline-flex .absolute {
+  width: 200%;
+  height: 200%;
+}
