@@ -15,7 +15,7 @@ const MagicButton = ({
 }) => {
   return (
     <button
-      className="relative inline-flex h-12 w-full md:w-60 md:mt-10 overflow-hidden rounded-lg border-2 md:border-4 border-purple-500 focus:outline-none"
+      className="relative inline-flex h-12 w-full md:w-60 md:mt-10 overflow-hidden rounded-lg border-2 md:border-3 border-[rgb(203, 172, 249)] focus:outline-none"
       onClick={handleClick}
     >
       <span
@@ -25,9 +25,6 @@ const MagicButton = ({
         {title}
         {position === "right" && icon}
       </span>
-      <span
-        className="absolute inset-0 bg-transparent border-2 md:border-4 border-purple-500 rounded-lg pointer-events-none"
-      />
     </button>
   );
 };
