@@ -88,7 +88,7 @@ export const navItems = [
     {
       id: 3,
       title: "The Gall - Band Website",
-      des: "A custom website for my band built with with Python, Django, Render, and the Spotify Web API.",
+      des: "A custom website for my band built with with Python, Django, Render, and Spotify's Web API.",
       img: "/p3.jpg",
       iconLists: [],
       link: "https://the-gall.onrender.com/",
@@ -161,7 +161,7 @@ export const navItems = [
     {
       id: 4,
       title: "Customer Support Engineer | 2023 - 2024",
-      desc: "Expanded my original role with Propcard to be my customer facing.",
+      desc: "Expanded my original role with Propcard to be my customer facing. Additional duties include this, this, this, this, that, that, that, that, that",
       className: "md:col-span-2",
       thumbnail: "/exp4.svg",
     },
