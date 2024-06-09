@@ -90,7 +90,7 @@ export const navItems = [
       title: "The Gall - Band Website",
       des: "A custom website for my band built with with Python, Django, Render, and the Spotify Web API.",
       img: "/p3.jpg",
-      iconLists: ["/py.svg", "/django.svg", "/spotify.svg"],
+      iconLists: [],
       link: "https://the-gall.onrender.com/",
     },
     {
@@ -98,7 +98,7 @@ export const navItems = [
       title: "Crypt0Watch",
       des: "A cryptocurrency tracking app ranking the top 50 coins by current market cap; built with React and CoinGecko's API.",
       img: "/p4.jpg",
-      iconLists: ["/re.svg"],
+      iconLists: [],
       link: "https://crypt0watch.onrender.com/",
     },
   ];
