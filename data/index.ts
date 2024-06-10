@@ -58,7 +58,7 @@ export const navItems = [
     },
     {
       id: 6,
-      title: "Want to start a project together?",
+      title: "Want to work on a project together?",
       description: "",
       className: "lg:col-span-2 md:col-span-3 md:row-span-1",
       imgClassName: "",
