@@ -12,8 +12,7 @@ const Footer = () => {
           problem solver to your team?
         </h1>
         <p className="text-white-200 md:mt-10 my-5 text-center">
-          Reach out to me today and let&apos;s discuss how I can help you
-          achieve your goals!
+          Feel free to reach out and let&apos;s discuss how I can help with your next project!
         </p>
         <a href="mailto:sean.currlin@gmail.com">
           <MagicButton
