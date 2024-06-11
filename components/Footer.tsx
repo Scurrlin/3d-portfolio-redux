@@ -8,8 +8,7 @@ const Footer = () => {
     <footer className="w-full pb-10 mb-[100px] md:mb-5" id="contact">
       <div className="flex flex-col items-center">
         <h1 className="heading lg:max-w-[45vw]">
-          Looking to <span className="text-purple">add</span> a dynamic
-          problem solver to your team?
+          Looking to add a dynamic problem solver to <span className="text-purple">your team?</span>
         </h1>
         <p className="text-white-200 md:mt-10 my-5 text-center">
           Feel free to reach out and let&apos;s discuss how I can help with your next project!
