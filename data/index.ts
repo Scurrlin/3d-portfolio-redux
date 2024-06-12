@@ -142,28 +142,28 @@ export const navItems = [
       title: "Enrollment Operations Lead | 2018 - 2022",
       desc: "Promoted to Lead at Northeastern University 6 months after being hired as an Enrollment Operations Assistant. Trained student workers and managed applicant caseloads across multiple populations.",
       className: "md:col-span-2",
-      thumbnail: "/exp1.svg",
+      thumbnail: "/neu.png",
     },
     {
       id: 2,
       title: "Onboarding Specialist | 2022",
       desc: "Collaborated with a senior developer at Propcard to design and build a Web API tailored for specific CRMLS data queries. This helped modernize their datapipelines and ETL processes for enhanced platofrm scalability.",
       className: "md:col-span-2",
-      thumbnail: "/exp2.svg",
+      thumbnail: "/propcard.png",
     },
     {
       id: 3,
       title: "Student Software Engineer | 2022",
       desc: "12-week, 500+ hour Immersive Full Stack Software Engineering bootcamp with General Assembly. This intensive program covered product development fundamentals, object-oriented programming, MVC frameworks, data modeling, team collaboration strategies, and the creation of a professional portfolio.",
       className: "md:col-span-2",
-      thumbnail: "/exp3.svg",
+      thumbnail: "/ga.png",
     },
     {
       id: 4,
       title: "Customer Support Engineer | 2023 - 2024",
       desc: "Expanded my original role with Propcard to be my customer facing. Additional duties include this, this, this, this, that, that, that, that, that",
       className: "md:col-span-2",
-      thumbnail: "/exp4.svg",
+      thumbnail: "/propcard.png",
     },
   ];
   
