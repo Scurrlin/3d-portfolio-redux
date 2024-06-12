@@ -41,10 +41,10 @@ const Hero = () => {
           />
 
           <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">
-            Hi, I'm Sean 👋
+            Hi, I&apos;m Sean 👋
           </p>
           <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">
-            I'm a Full Stack Developer in Boston, MA
+          I&apos;m a Full Stack Developer in Boston, MA
           </p>
 
           <a href="#projects">
