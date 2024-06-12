@@ -147,7 +147,7 @@ export const navItems = [
     {
       id: 2,
       title: "Onboarding Specialist | 2022",
-      desc: "Collaborated with a senior developer at Propcard to design and build a Web API tailored for specific CRMLS data queries. This helped modernize their datapipelines and ETL processes for enhanced platofrm scalability.",
+      desc: "Responded to inbound client requests for meetings and effectively pitched the benefits of Propcard. Added relevant media copy to the custom Propcard CMS and guided new clients through the platform.",
       className: "md:col-span-2",
       thumbnail: "/propcard.png",
     },
@@ -161,7 +161,7 @@ export const navItems = [
     {
       id: 4,
       title: "Customer Support Engineer | 2023 - 2024",
-      desc: "Expanded my original role with Propcard to be my customer facing. Additional duties include this, this, this, this, that, that, that, that, that",
+      desc: "Expanded previous role to include custom website updates via HTML injection. Installed analytics tokens and tracking pixels to collect web data, helped managed our SQL database, and monitored cron jobs for MLS collection tokens.",
       className: "md:col-span-2",
       thumbnail: "/propcard.png",
     },
