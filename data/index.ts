@@ -161,7 +161,7 @@ export const navItems = [
     {
       id: 4,
       title: "Customer Support Engineer | 2023 - 2024",
-      desc: "Expanded previous role to include custom website updates via HTML injection. Installed analytics tokens and tracking pixels to collect web data, helped managed our SQL database, and monitored cron jobs for MLS collection tokens.",
+      desc: "Expanded previous role at Propcard to include custom website updates via HTML injection. Installed analytics tokens and tracking pixels to collect web data, helped managed our SQL database, and monitored cron jobs for MLS collection tokens.",
       className: "md:col-span-2",
       thumbnail: "/propcard.png",
     },
