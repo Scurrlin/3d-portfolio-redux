@@ -18,7 +18,7 @@ export const navItems = [
     },
     {
       id: 2,
-      title: "I'm comfortable coordinating across multiple time zones",
+      title: "Experience working across time zones",
       description: "",
       className: "lg:col-span-2 md:col-span-3 md:row-span-2",
       imgClassName: "",
@@ -38,7 +38,7 @@ export const navItems = [
     },
     {
       id: 4,
-      title: "Tech enthusiast with a passion for optimization",
+      title: "Hardware specialist with a passion for optimization",
       description: "",
       className: "lg:col-span-2 md:col-span-3 md:row-span-1",
       imgClassName: "",
@@ -49,7 +49,7 @@ export const navItems = [
     {
       id: 5,
       title: "Currently building a Band Website Template",
-      description: "What's up next?",
+      description: "In development",
       className: "md:col-span-3 md:row-span-2",
       imgClassName: "absolute right-0 bottom-0 md:w-96 w-60",
       titleClassName: "justify-center md:justify-start lg:justify-center",
@@ -72,7 +72,7 @@ export const navItems = [
     {
       id: 1,
       title: "Yoom - Video Conferencing App",
-      des: "A clone of JSMastery's video conferencing app; built with Next.js, TypeScript, Clerk, and Getstream.io.",
+      des: "A professional grade video conferencing app built with Next.js, TypeScript, Clerk, and Getstream.io.",
       img: "/p1.jpg",
       iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
       link: "https://yoom-yoom.vercel.app/",
