@@ -72,7 +72,7 @@ export const navItems = [
     {
       id: 1,
       title: "Yoom - Video Conferencing App",
-      des: "A professional grade video conferencing app built with Next.js, TypeScript, Clerk, and Getstream.io.",
+      des: "A video conferencing app built with Next.js, TypeScript, Clerk, and Getstream.io.",
       img: "/p1.jpg",
       iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
       link: "https://yoom-yoom.vercel.app/",
@@ -96,7 +96,7 @@ export const navItems = [
     {
       id: 4,
       title: "Crypt0Watch",
-      des: "A cryptocurrency tracking app ranking the top 50 coins by current market cap; built with React and CoinGecko's API.",
+      des: "A cryptocurrency price tracking app built with React and CoinGecko's API.",
       img: "/p4.jpg",
       iconLists: [],
       link: "https://crypt0watch.onrender.com/",
