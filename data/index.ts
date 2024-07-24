@@ -139,36 +139,36 @@ export const navItems = [
   export const workExperience = [
     {
       id: 1,
-      title: "Enrollment Operations Lead",
-      years: "February 2018 - May 2022",
-      desc: "Promoted to Lead at Northeastern University 6 months after being hired as an Enrollment Operations Assistant. Trained student workers and managed applicant caseloads across multiple populations.",
-      className: "md:col-span-2",
-      thumbnail: "/neu.png",
-    },
-    {
-      id: 2,
-      title: "Onboarding Specialist",
-      years: "May 2022 - July 2022",
-      desc: "Responded to inbound client requests for meetings and effectively pitched the benefits of Propcard. Added relevant media copy to the custom Propcard CMS and guided new clients through the platform.",
+      title: "Customer Support Engineer",
+      years: "January 2023 - May 2024",
+      desc: "At Propcard, from January 2023 to May 2024, I partnered with a senior developer to construct an enhanced Web API for specific CRMLS data points. I administered the SQL Database, executing maintenance and updates as required, and oversaw cron jobs for MLS connection tokens, ensuring seamless data integration.",
       className: "md:col-span-2",
       thumbnail: "/propcard.png",
     },
     {
-      id: 3,
+      id: 2,
       title: "Student Software Engineer",
       years: "July 2022 - October 2022",
-      desc: "12-week, 500+ hour Immersive Full Stack Software Engineering bootcamp with General Assembly. This intensive program covered product development fundamentals, object-oriented programming, MVC frameworks, data modeling, team collaboration strategies, and the creation of a professional portfolio.",
+      desc: "At General Assembly, from July 2022 to October 2022, I created a professional portfolio showcasing my completed projects and technical skills. I learned and implemented various programming languages and tools, engaged in hands-on coding assignments and real-world projects, and collaborated with peers on group projects to simulate industry teamwork.",
       className: "md:col-span-2",
       thumbnail: "/ga.png",
     },
     {
-      id: 4,
-      title: "Customer Support Engineer",
-      years: "January 2023 - May 2024",
-      desc: "Expanded previous role at Propcard to include custom website updates via HTML injection. Installed analytics tokens and tracking pixels to collect web data, helped managed our SQL database, and monitored cron jobs for MLS collection tokens.",
+      id: 3,
+      title: "Onboarding Specialist",
+      years: "May 2022 - July 2022",
+      desc: "At Propcard, from May 2022 to July 2022, I responded to inbound client requests, initiating contact and scheduling meetings. I assisted clients in setting up and optimizing their accounts for better engagement and results, maintaining a high level of client satisfaction through attentive and personalized support. I also collaborated with the team to improve onboarding processes and enhance the overall client experience.",
       className: "md:col-span-2",
       thumbnail: "/propcard.png",
     },
+    {
+      id: 4,
+      title: "Enrollment Operations Lead",
+      years: "February 2018 - May 2022",
+      desc: "At Northeastern University, from February 2018 to May 2022, I spearheaded the crafting and submission of an approved proposal to upgrade all team members’ laptops to 16 GB RAM, significantly boosting productivity. I assisted in training student workers and managed applicant caseloads across multiple populations. I also coordinated with various departments to streamline enrollment processes and resolve issues.",
+      className: "md:col-span-2",
+      thumbnail: "/neu.png",
+    }
   ];
   
   export const socialMedia = [
