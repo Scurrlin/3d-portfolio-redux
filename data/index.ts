@@ -88,7 +88,7 @@ export const navItems = [
     {
       id: 3,
       title: "The Gall - Band Website",
-      des: "A custom website for my band built with with Python, Django, Render, and Spotify's Web API.",
+      des: "A custom website for my cover band built with Python, Django, Render, and Spotify's Web API.",
       img: "/p3.jpg",
       iconLists: [],
       link: "https://the-gall.onrender.com/",
