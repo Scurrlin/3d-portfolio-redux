@@ -87,11 +87,11 @@ export const navItems = [
     },
     {
       id: 3,
-      title: "LiveDocs - Collaborative Text Editor",
-      des: "A real-time collaborative text editor built with Next.js, TypeScript, and Clerk.",
+      title: "Brainwave - Modern UI/UX",
+      des: "A sleek, fully responsive website design built with React, Tailwind CSS, and Vite.",
       img: "/p3.jpg",
-      iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/c.svg"],
-      link: "https://live-d0cs.vercel.app/",
+      iconLists: ["/re.svg", "/tail.svg"],
+      link: "https://brainwave-pqr2.onrender.com/",
     },
     {
       id: 4,
