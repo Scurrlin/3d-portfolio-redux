@@ -18,8 +18,7 @@ const RecentProjects = () => {
             key={item.id}
           >
             <PinContainer
-              title="/ui.aceternity.com"
-              href="https://twitter.com/mannupaaji"
+              title="ui.aceternity.com"
             >
               <div className="relative flex items-center justify-center sm:w-96 w-[80vw] overflow-hidden h-[237px] lg:h-[293px] lg:max-h-[20rem] mb-10">
                 <div
