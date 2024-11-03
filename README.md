@@ -11,3 +11,4 @@ A new and improved version of [my 3D developer portfolio](https://thr33d.vercel.
 * ThreeJS
 * Framer Motion
 * Tailwind CSS
+* Sentry
