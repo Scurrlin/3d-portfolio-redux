@@ -139,9 +139,9 @@ export const navItems = [
   export const workExperience = [
     {
       id: 1,
-      title: "Associate Software Developer",
+      title: "Associate Web Developer",
       years: "July 2024 - Present",
-      desc: "At GoingClear, starting in July 2024, I assisted in the deployment of Lee & Low Books’ website, the largest multicultural children’s book publisher in the United States. I worked closely with our lead developer to scale over 1200 SKUs through the WooCommerce API and advised the client on development optimizations to maximize performance.",
+      desc: "At GoingClear, starting in July 2024, I assisted in the deployment of Lee & Low Books’ e-commerce website, the largest multicultural children’s book publisher in the United States. I worked closely with our lead developer to scale over 1200 SKUs through the WooCommerce API and advised the client on development optimizations to maximize performance.",
       className: "md:col-span-2",
       thumbnail: "/gc.png",
     },
