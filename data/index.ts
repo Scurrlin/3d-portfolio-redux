@@ -139,6 +139,14 @@ export const navItems = [
   export const workExperience = [
     {
       id: 1,
+      title: "Associate Software Developer",
+      years: "July 2024 - Present",
+      desc: "At GoingClear, starting in July 2024, I assisted in the deployment of Lee & Low Books’ website, the largest multicultural children’s book publisher in the United States. I worked closely with our lead developer to scale over 1200 SKUs through the WooCommerce API and advised the client on development optimizations to maximize performance.",
+      className: "md:col-span-2",
+      thumbnail: "/gc.png",
+    },
+    {
+      id: 2,
       title: "Customer Support Engineer",
       years: "January 2023 - May 2024",
       desc: "At Propcard, from January 2023 to May 2024, I partnered with a senior developer to construct an enhanced Web API for specific CRMLS data points. I administered the SQL Database, executing maintenance and updates as required, and oversaw cron jobs for MLS connection tokens, ensuring seamless data integration.",
@@ -146,20 +154,12 @@ export const navItems = [
       thumbnail: "/propcard.png",
     },
     {
-      id: 2,
+      id: 3,
       title: "Student Software Engineer",
       years: "July 2022 - October 2022",
       desc: "At General Assembly, from July 2022 to October 2022, I created a professional portfolio showcasing my completed projects and technical skills. I learned and implemented various programming languages and tools, engaged in hands-on coding assignments and real-world projects, and collaborated with peers on group projects to simulate industry teamwork.",
       className: "md:col-span-2",
       thumbnail: "/ga.png",
-    },
-    {
-      id: 3,
-      title: "Onboarding Specialist",
-      years: "May 2022 - July 2022",
-      desc: "At Propcard, from May 2022 to July 2022, I responded to inbound client requests, initiating contact and scheduling meetings. I assisted clients in setting up and optimizing their accounts for better engagement and results, maintaining a high level of client satisfaction through attentive and personalized support. I also collaborated with the team to improve onboarding processes and enhance the overall client experience.",
-      className: "md:col-span-2",
-      thumbnail: "/propcard.png",
     },
     {
       id: 4,
