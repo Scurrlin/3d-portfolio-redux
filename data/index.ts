@@ -87,10 +87,10 @@ export const navItems = [
     },
     {
       id: 3,
-      title: "Brainwave - Modern UI/UX",
+      title: "Zentry Replica - Modern UI/UX",
       des: "A sleek, fully responsive website design built with React, Tailwind CSS, Vite, and Render.",
-      img: "/p3.jpg",
-      iconLists: ["/re.svg", "/tail.svg"],
+      img: "/p5.jpg",
+      iconLists: ["/re.svg", "/tail.svg", "/gsap.svg"],
       link: "https://brainwave-pqr2.onrender.com/",
     },
     {
