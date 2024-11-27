@@ -88,10 +88,10 @@ export const navItems = [
     {
       id: 3,
       title: "Zentry Replica - Modern UI/UX",
-      des: "A sleek, fully responsive website design built with React, Tailwind CSS, Vite, and Render.",
-      img: "/p5.jpg",
+      des: "A detailed replica of Zentry's award winning website. Built with ReactJS, Tailwind CSS, and GSAP",
+      img: "/p3.jpg",
       iconLists: ["/re.svg", "/tail.svg", "/gsap.svg"],
-      link: "https://brainwave-pqr2.onrender.com/",
+      link: "https://zentry-replica.vercel.app/",
     },
     {
       id: 4,
