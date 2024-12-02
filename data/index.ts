@@ -2,7 +2,7 @@ export const navItems = [
     { name: "About", link: "#about" },
     { name: "Projects", link: "#projects" },
     { name: "Contact", link: "#contact" },
-    { name: "Resume", link: "https://drive.google.com/file/d/1g51G0gBMBYr6JHke3mdOhxGwPejvZnQc/view?usp=sharing" }
+    { name: "Resume", link: "https://drive.google.com/file/d/1faP8QgcphWbmMjhD45C5BkqHJnFa220Y/view?usp=sharing" }
   ];
   
   export const gridItems = [
