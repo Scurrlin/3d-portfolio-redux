@@ -2,7 +2,7 @@ export const navItems = [
     { name: "About", link: "#about" },
     { name: "Projects", link: "#projects" },
     { name: "Contact", link: "#contact" },
-    { name: "Resume", link: "https://drive.google.com/file/d/1CY_gyT3EHxYqb2wKRUirCV-zpvato7Y-/view?usp=sharing" }
+    { name: "Resume", link: "https://drive.google.com/file/d/1p1lhMqom0l6OPEaehPRYDtxU0sYNQ9XJ/view?usp=sharing" }
   ];
   
   export const gridItems = [
@@ -141,7 +141,7 @@ export const navItems = [
       id: 1,
       title: "Associate Web Developer",
       years: "July 2024 - Present",
-      desc: "At GoingClear, starting in July 2024, I assisted in the deployment of Lee & Low Books’ e-commerce website, the largest multicultural children’s book publisher in the United States. I worked closely with our lead developer to scale over 1200 SKUs through the WooCommerce API and advised the client on development optimizations to maximize performance.",
+      desc: "Supported the deployment of Lee & Low Books’ e-commerce website, the largest multicultural children’s book publisher in the United States. Collaborated with lead developer to scale 1,200+ SKUs using WooCommerce API. Advised client on server hosting and architectural optimizations to maximize performance.",
       className: "md:col-span-2",
       thumbnail: "/gc.png",
     },
@@ -149,7 +149,7 @@ export const navItems = [
       id: 2,
       title: "Customer Support Engineer",
       years: "January 2023 - May 2024",
-      desc: "At Propcard, from January 2023 to May 2024, I partnered with a senior developer to construct an enhanced Web API for specific CRMLS data points. I administered the SQL Database, executing maintenance and updates as required, and oversaw cron jobs for MLS connection tokens, ensuring seamless data integration.",
+      desc: "Partnered with senior developer to build an enhanced Web API for critical CRMLS data points. Updated client websites and facilitated onboarding using proprietary CMS. Oversaw cron jobs for MLS connection tokens to ensure uninterrupted data integration.",
       className: "md:col-span-2",
       thumbnail: "/propcard.png",
     },
@@ -157,7 +157,7 @@ export const navItems = [
       id: 3,
       title: "Student Software Engineer",
       years: "July 2022 - October 2022",
-      desc: "At General Assembly, from July 2022 to October 2022, I created a professional portfolio showcasing my completed projects and technical skills. I learned and implemented various programming languages and tools, engaged in hands-on coding assignments and real-world projects, and collaborated with peers on group projects to simulate industry teamwork.",
+      desc: "Created a professional portfolio showcasing my completed projects and technical skills. Learned and implemented various programming languages and tools, engaged in hands-on coding assignments and real-world projects, and collaborated with peers on group projects to simulate industry teamwork.",
       className: "md:col-span-2",
       thumbnail: "/ga.png",
     },
@@ -165,7 +165,7 @@ export const navItems = [
       id: 4,
       title: "Enrollment Operations Lead",
       years: "February 2018 - May 2022",
-      desc: "At Northeastern University, from February 2018 to May 2022, I spearheaded the crafting and submission of an approved proposal to upgrade all team members’ laptops to 16 GB RAM, significantly boosting productivity. I assisted in training student workers and managed applicant caseloads across multiple populations. I also coordinated with various departments to streamline enrollment processes and resolve issues.",
+      desc: "Spearheaded an approved proposal for upgrading all team laptops to 16 GB RAM, significantly boosting productivity. Trained student workers and managed applicant caseloads across multiple populations. Coordinated with various departments to streamline enrollment processes and resolve operational issues.",
       className: "md:col-span-2",
       thumbnail: "/neu.png",
     }
